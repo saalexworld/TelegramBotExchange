@@ -1,0 +1,11 @@
+certifi
+charset-normalizer
+idna
+lxml
+pyTelegramBotAPI
+requests
+soupsieve
+urllib3
+BeautifulSoup4
+python-decouple
+telegram
